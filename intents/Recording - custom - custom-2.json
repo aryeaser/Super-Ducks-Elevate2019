@@ -1,0 +1,34 @@
+{
+  "id": "9415e039-19ee-4470-b081-c0028e9843c6",
+  "parentId": "150323e7-64ef-4f5c-8211-381118ece4a9",
+  "rootParentId": "27c7a9f8-e2da-4340-8985-1767c3bc47b5",
+  "name": "Recording - custom - custom-2",
+  "auto": true,
+  "contexts": [
+    "Recording-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Recording.Recording-custom.Recording-custom-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Okay. Have a great day !"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": []
+}

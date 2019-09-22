@@ -1,0 +1,70 @@
+[
+  {
+    "id": "f1c89dbe-9f09-41de-ab2c-860f2740dfbe",
+    "data": [
+      {
+        "text": "Can you telephone me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "572f89de-17d7-490e-a6bd-f47cf594d6ea",
+    "data": [
+      {
+        "text": "Request a call",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d71a1bba-f310-47d6-ad27-b0d2e3dbc071",
+    "data": [
+      {
+        "text": "Actually, can you request the call for ",
+        "userDefined": false
+      },
+      {
+        "text": "5 PM",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "daea0fde-bcfa-4abe-8b53-1aab49f3d0eb",
+    "data": [
+      {
+        "text": "Give me a call",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

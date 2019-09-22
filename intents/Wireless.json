@@ -1,0 +1,54 @@
+{
+  "id": "2380b8fd-54ae-4143-baed-2a0b99b35dd1",
+  "name": "Wireless",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "928828c5-078f-4b83-97b2-1556fcd7d7ee",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "4068285c-76c2-4fc1-b5f6-ce8a7e3870a5",
+          "required": false,
+          "dataType": "@Phone",
+          "name": "Phone",
+          "value": "$Phone",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Sure, I will send that information to your MyRogers Inbox, let me know when you have gotten a chance to review it and are ready to place an order. Alternatively, let me know if you would like me to open a ticket with a Customer Service Representative to give you a call."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": []
+}

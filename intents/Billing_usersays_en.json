@@ -1,0 +1,34 @@
+[
+  {
+    "id": "b6e2e993-5114-40de-beda-c6597fcb5eed",
+    "data": [
+      {
+        "text": "One more thing, when is my next ",
+        "userDefined": false
+      },
+      {
+        "text": "bill",
+        "alias": "Payment",
+        "meta": "@Payment",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "payment",
+        "alias": "Payment",
+        "meta": "@Payment",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

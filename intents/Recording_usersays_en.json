@@ -1,0 +1,30 @@
+[
+  {
+    "id": "962c0ce9-00c3-4d16-9b87-414fc4b6b5a0",
+    "data": [
+      {
+        "text": "Can you record my ",
+        "userDefined": false
+      },
+      {
+        "text": "show",
+        "alias": "show",
+        "meta": "@show",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at 7pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

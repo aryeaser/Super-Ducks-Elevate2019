@@ -1,0 +1,34 @@
+{
+  "id": "453f2abe-25e7-4cde-a173-0eec819dd6ee",
+  "parentId": "fb77519f-e721-477a-a9c4-43ed70e1b239",
+  "rootParentId": "fb77519f-e721-477a-a9c4-43ed70e1b239",
+  "name": "Billing - custom",
+  "auto": true,
+  "contexts": [
+    "Billing-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Billing.Billing-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Yeaser, by the way, your phone is up for an upgrade in 60 days, would you like to explore your upgrade options?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "8107229a-3cc1-44d8-88fe-cad09f152997",
+  "name": "Phone",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "17e303c3-4e13-4a9d-9196-539431236b9e",
+    "data": [
+      {
+        "text": "Yes, ",
+        "userDefined": false
+      },
+      {
+        "text": "cellphone",
+        "alias": "Phone",
+        "meta": "@Phone",
+        "userDefined": false
+      },
+      {
+        "text": " upgrade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "781afddb-3bf9-4991-a0b7-a34a9344e849",
+    "data": [
+      {
+        "text": "Phone",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": true
+      },
+      {
+        "text": " Upgrade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "240f000c-c101-44a7-9e5e-2e5076bc45b6",
+    "data": [
+      {
+        "text": "Iphone",
+        "alias": "Phone",
+        "meta": "@Phone",
+        "userDefined": true
+      },
+      {
+        "text": " upgrade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d4fc747-dea5-4dcc-8bd6-4191e660dcf7",
+    "data": [
+      {
+        "text": "Yes please, could you provide me with ",
+        "userDefined": false
+      },
+      {
+        "text": "iPhone",
+        "alias": "Phone",
+        "meta": "@Phone",
+        "userDefined": true
+      },
+      {
+        "text": " upgrade information?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "id": "150323e7-64ef-4f5c-8211-381118ece4a9",
+  "parentId": "27c7a9f8-e2da-4340-8985-1767c3bc47b5",
+  "rootParentId": "27c7a9f8-e2da-4340-8985-1767c3bc47b5",
+  "name": "Recording - custom",
+  "auto": true,
+  "contexts": [
+    "Recording-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Recording.Recording-custom",
+      "affectedContexts": [
+        {
+          "name": "Recording-custom-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Sure, I can record suits on CTV at 7pm. Anything else I can help you with?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": []
+}

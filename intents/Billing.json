@@ -1,0 +1,48 @@
+{
+  "id": "fb77519f-e721-477a-a9c4-43ed70e1b239",
+  "name": "Billing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Billing-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5249bf9e-26fa-46c7-b170-0cf6ad9993ef",
+          "required": false,
+          "dataType": "@Payment",
+          "name": "Payment",
+          "value": "$Payment",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Your next billing cycle ends on September 25th, with a payment date of October 1st. Your next bill is $69.00 with tax."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": []
+}
